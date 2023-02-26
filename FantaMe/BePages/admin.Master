@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="FantaMe.BePages.admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <%--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>--%>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Css/admin.css" rel="stylesheet"/>
+    </head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+<div class="adminTitle" style="background-color:#f5f5f0;box-shadow: 10px 10px 5px #dedede;">
+    		<table style="width:100%" >
+			<tr >
+				<td style="width:20%"><a href="#"><asp:Image ImageUrl="~/Immagini/2.png" runat="server" ID="Image1" width="200px" height="131px" /></a></td>
+                <td style="width:80%">
+                    <h4 class="league-name">
+                              Amministrazione Sito
+                    </h4>
+                </td>
+			</tr>
+		</table>
+</div>
+<div style="float:left; width:19%;height:800px;background-color:#f5f5f0;padding-top:40px;box-shadow: 10px 10px 5px #dedede;">
+    	    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSourceTVadmin" Width="180px">
+            </asp:TreeView>
+</div> 
+<div style="float:left; width:80%;">
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server" >
+
+                                    </asp:ContentPlaceHolder>   
+</div> 
+<%--<table>
+	<!-- top -->
+<%--	<tr><td>
+		<table cellpadding="0" cellspacing="0" width="1024px" bgcolor="#FFFFFF" height="57">
+			<tr>
+				<td width="304" align="left"><a href="#"><asp:Image ImageUrl="~/App_Themes/Ams E-Commerce/Images/logo.png" runat="server" ID="Logo" width="200" height="48" /></a></td>
+			</tr>
+		</table>
+	</td></tr>
+	<tr><td>
+	</td></tr>
+	<!-- end top -->
+	
+	<tr><td>
+		<table >
+			<tr>
+	    <!-- center -->
+	        <!-- left menu -->
+	        <asp:TreeView ID="TreeViewAdmin" runat="server" DataSourceID="SiteMapDataSourceTVadmin" Width="180px">
+            </asp:TreeView>
+	        <!-- end left menu -->
+	        <!-- content -->
+			    <td style="vertical-align:initial">
+                    <table style="width:1000px"> 
+                    <tr>
+                        <td style="width:25%; vertical-align:center;" valign="middle" class="auto-style1">
+                            <asp:Label ID="SectionNamelbl" runat="server" Text="Administration" 
+                                meta:resourcekey="SectionNamelblResource1"></asp:Label></td>
+                        <td width="75%" class="auto-style1"><asp:Label ID="SubSectionName" runat="server" 
+                                meta:resourcekey="SubSectionNameResource1" ></asp:Label></td>
+                    </tr>
+                    </table>
+                    <asp:Table runat="server" ID="ErrorsTable" CssClass="errorsTable" 
+                        Visible="False" meta:resourcekey="ErrorsTableResource1" >
+                    </asp:Table>
+                    <asp:Table runat="server" ID="InfoTable" CssClass="infoTable" Visible="False" 
+                        meta:resourcekey="InfoTableResource1" >
+                    </asp:Table>
+				    <table style="border:#75AADB 1px solid; margin:0px;width:800px">
+				        <tr><td>
+                            <asp:ContentPlaceHolder ID="AdminPlaceHolder" runat="server" >
+                            </asp:ContentPlaceHolder>   
+                        </td></tr>
+                    </table>
+	            </td>
+	        </tr>
+	        <!-- content -->
+	   </table>     
+	        <!-- end of center -->
+
+</td></tr>	        
+        <tr><td height="10" bgcolor="#FFFFFF"></td></tr>
+	    <tr><td>
+		    <table cellpadding="0" cellspacing="0"  height="19" align="left" width="1024px">
+			    <tr>
+				    <td class="style9_b" style="padding-left:10px" width="300"></td>
+				    <td style="padding-left:30px">&nbsp;</td>
+				    <td style="padding-left:30px">&nbsp;</td>
+				    <td style="padding-left:30px">&nbsp;</td>
+				    <td style="padding-left:30px">&nbsp;</td>
+				    <td style="padding-left:30px">&nbsp;</td>
+				    <td style="padding-left:30px">&nbsp;</td>
+				    <td width="160"></td>
+			    </tr>
+		    </table>
+	    </td></tr>
+ 	    <!-- end bootom -->
+    </table> --%>      
+	<!-- top -->
+	
+        <asp:SiteMapDataSource ID="SiteMapDataSourceTVadmin" runat="server" SiteMapProvider="AdminSiteMap" />
+	
+    </form>
+</body>
+</html>

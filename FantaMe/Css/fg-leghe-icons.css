@@ -1,0 +1,329 @@
+﻿@charset "UTF-8";
+
+@font-face {
+  font-family: "fg-leghe";
+  src:url("fonts/fg-leghe.eot");
+  src:url("fonts/fg-leghe.eot?#iefix") format("embedded-opentype"),
+    url("fonts/fg-leghe.woff") format("woff"),
+    url("fonts/fg-leghe.ttf") format("truetype"),
+    url("fonts/fg-leghe.svg#fg-leghe") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "fg-leghe" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="ico-"]:before,
+[class*=" ico-"]:before {
+  font-family: "fg-leghe" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-add-circle:before {
+  content: "\63";
+}
+.ico-ball:before {
+  content: "\64";
+}
+.ico-android:before {
+  content: "\65";
+}
+.ico-apple:before {
+  content: "\66";
+}
+.ico-archive:before {
+  content: "\67";
+}
+.ico-substitution:before {
+  content: "\68";
+}
+.ico-at:before {
+  content: "\69";
+}
+.ico-right-arrow:before {
+  content: "\6a";
+}
+.ico-cancel:before {
+  content: "\6b";
+}
+.ico-search:before {
+  content: "\6d";
+}
+.ico-checked:before {
+  content: "\6e";
+}
+.ico-bell:before {
+  content: "\6f";
+}
+.ico-close-narrow:before {
+  content: "\71";
+}
+.ico-cogwheel:before {
+  content: "\72";
+}
+.ico-buy:before {
+  content: "\73";
+}
+.ico-done:before {
+  content: "\75";
+}
+.ico-download:before {
+  content: "\77";
+}
+.ico-edit:before {
+  content: "\78";
+}
+.ico-email:before {
+  content: "\79";
+}
+.ico-facebook:before {
+  content: "\7a";
+}
+.ico-download-file:before {
+  content: "\41";
+}
+.ico-fm:before {
+  content: "\42";
+}
+.ico-live:before {
+  content: "\43";
+}
+.ico-garbage:before {
+  content: "\44";
+}
+.ico-help:before {
+  content: "\45";
+}
+.ico-arrow-down:before {
+  content: "\49";
+}
+.ico-warning:before {
+  content: "\4a";
+}
+.ico-league:before {
+  content: "\4b";
+}
+.ico-lineup:before {
+  content: "\4c";
+}
+.ico-locked:before {
+  content: "\4d";
+}
+.ico-market:before {
+  content: "\4e";
+}
+.ico-dock:before {
+  content: "\50";
+}
+.ico-dock-bold:before {
+  content: "\51";
+}
+.ico-caret-down:before {
+  content: "\53";
+}
+.ico-blind:before {
+  content: "\54";
+}
+.ico-arrow-up:before {
+  content: "\56";
+}
+.ico-remove-small:before {
+  content: "\57";
+}
+.ico-reset:before {
+  content: "\58";
+}
+
+.ico-rollback:before,
+.ico-remove-small-1:before {
+  content: "\5a";
+}
+.ico-save:before {
+  content: "\30";
+}
+.ico-save-all:before {
+  content: "\31";
+}
+.ico-change-players:before {
+  content: "\32";
+}
+.ico-ball-cog:before {
+  content: "\33";
+}
+.ico-share:before {
+  content: "\34";
+}
+.ico-exchange:before {
+  content: "\35";
+}
+.ico-release:before {
+  content: "\36";
+}
+.ico-switch-to:before {
+  content: "\38";
+}
+.ico-shirts:before {
+  content: "\21";
+}
+.ico-upload-image:before {
+  content: "\22";
+}
+.ico-star:before {
+  content: "\24";
+}
+.ico-pairings:before {
+  content: "\25";
+}
+.ico-play:before {
+  content: "\26";
+}
+.ico-team:before {
+  content: "\39";
+}
+.ico-back:before {
+  content: "\27";
+}
+.ico-no-option:before {
+  content: "\28";
+}
+.ico-alert:before {
+  content: "\29";
+}
+.ico-crown:before {
+  content: "\46";
+}
+.ico-home:before {
+  content: "\2a";
+}
+.ico-caret-left:before {
+  content: "\6c";
+}
+.ico-caret-right:before {
+  content: "\2b";
+}
+.ico-switch-mode:before {
+  content: "\37";
+}
+.ico-down-chevron:before {
+  content: "\76";
+}
+.ico-n-acquisti:before {
+  content: "\55";
+}
+.ico-s-fontevoti:before {
+  content: "\2d";
+}
+.ico-s-formazione:before {
+  content: "\2e";
+}
+.ico-s-inviti-1:before {
+  content: "\2f";
+}
+.ico-s-inviti:before {
+  content: "\3a";
+}
+
+.ico-s-generali:before,
+.ico-s-logolega:before {
+  content: "\3b";
+}
+.ico-s-info:before {
+  content: "\3c";
+}
+.ico-s-panchina:before {
+  content: "\3d";
+}
+.ico-s-parolaordine:before {
+  content: "\3e";
+}
+.ico-s-rose:before {
+  content: "\3f";
+}
+.ico-s-sogliegol:before {
+  content: "\40";
+}
+.ico-s-sostituzioni:before {
+  content: "\5b";
+}
+.ico-s-bonusmalus:before {
+  content: "\2c";
+}
+.ico-add-user:before {
+  content: "\62";
+}
+.ico-user:before {
+  content: "\23";
+}
+.ico-s-competizioni:before {
+  content: "\5d";
+}
+.ico-s-caricarose:before {
+  content: "\5e";
+}
+.ico-s-mercato:before {
+  content: "\5f";
+}
+.ico-ico-send-outline:before {
+  content: "\47";
+}
+.ico-wa:before {
+  content: "\60";
+}
+.ico-copy:before {
+  content: "\7b";
+}
+.ico-crown2:before {
+  content: "\7c";
+}
+.ico-attach:before {
+  content: "\7d";
+}
+.ico-eye:before {
+  content: "\4f";
+}
+.ico-auction:before {
+  content: "\7e";
+}
+.ico-settings:before {
+  content: "\48";
+}
+.ico-asta:before {
+  content: "\7e";
+}
+.ico-close:before {
+  content: "\70";
+}
+.ico-create-crest:before {
+  content: "\74";
+}
+.ico-add:before {
+  content: "\61";
+}
+.ico-menu-button-of-three-lines:before {
+  content: "\52";
+}
+.ico-empty:before {
+  content: "\5c";
+}
+.ico-reset-calcoli:before {
+  content: "\59";
+}

@@ -1,0 +1,376 @@
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\ApplicationInsights.config
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\csc.exe
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\vbc.exe
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\FantaMe.dll.config
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\FantaMe.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\FantaMe.pdb
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Antlr3.Runtime.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\EntityFramework.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.Web.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Newtonsoft.Json.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Owin.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\System.Web.Optimization.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\System.Web.Providers.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\WebGrease.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.Web.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\System.Web.Optimization.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Antlr3.Runtime.pdb
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Newtonsoft.Json.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\EntityFramework.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\System.Web.Providers.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\System.Web.Optimization.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\EntityFramework.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\EntityFramework.SqlServer.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.Owin.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\obj\Debug\FantaMe.dll
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\obj\Debug\FantaMe.pdb
+C:\Users\Marcy\Desktop\SITO\FantaMe\FantaMe\obj\Debug\FantaMe.csprojResolveAssemblyReference.cache
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\ApplicationInsights.config
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\csc.exe
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\vbc.exe
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\FantaMe.dll.config
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\FantaMe.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\FantaMe.pdb
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Antlr3.Runtime.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.Web.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Newtonsoft.Json.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Owin.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Optimization.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Providers.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\WebGrease.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.Web.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Optimization.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Antlr3.Runtime.pdb
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Newtonsoft.Json.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Providers.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\System.Web.Optimization.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\EntityFramework.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\EntityFramework.SqlServer.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.csprojResolveAssemblyReference.cache
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.dll
+C:\Users\Marcy\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.pdb
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\ApplicationInsights.config
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\csc.exe
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\vbc.exe
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\FantaMe.dll.config
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\FantaMe.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\FantaMe.pdb
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Antlr3.Runtime.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.SqlServer.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.Web.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Newtonsoft.Json.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Owin.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Optimization.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Providers.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\WebGrease.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.Web.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Optimization.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Antlr3.Runtime.pdb
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Newtonsoft.Json.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\EntityFramework.SqlServer.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\System.Web.Providers.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\System.Web.Optimization.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\EntityFramework.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\EntityFramework.SqlServer.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.csproj.CopyComplete
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.dll
+C:\Users\franc\Desktop\Progetti .NET\FantaMe\FantaMe\obj\Debug\FantaMe.pdb
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\ApplicationInsights.config
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\csc.exe
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\vbc.exe
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\FantaMe.dll.config
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\FantaMe.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\FantaMe.pdb
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Antlr3.Runtime.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\EntityFramework.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\EntityFramework.SqlServer.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.Web.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Newtonsoft.Json.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Owin.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\System.Web.Optimization.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\System.Web.Providers.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\WebGrease.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.Web.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\System.Web.Optimization.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Antlr3.Runtime.pdb
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Newtonsoft.Json.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\EntityFramework.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\EntityFramework.SqlServer.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\System.Web.Providers.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\System.Web.Optimization.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\EntityFramework.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\EntityFramework.SqlServer.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.Owin.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\bin\it\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\obj\Debug\FantaMe.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\obj\Debug\FantaMe.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\obj\Debug\FantaMe.csproj.CopyComplete
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\obj\Debug\FantaMe.dll
+C:\Users\franc\Desktop\PROGETTI VISUAL STUDIO\FantaMe\FantaMe\obj\Debug\FantaMe.pdb

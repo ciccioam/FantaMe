@@ -1,0 +1,209 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="FantaMe.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="it">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Applicazione ASP.NET</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+   <link href="Css/admin.css" rel="stylesheet">
+    <link href="Css/bootstrap.css" rel="stylesheet">
+    <link href="Css/fg-icons.css" rel="stylesheet">
+    <link href="Css/fg-leghe-icons.css" rel="stylesheet">
+    <link href="Css/bootstrap-material-design.css" rel="stylesheet">
+    <link href="Css/ripples.css" rel="stylesheet">
+    <link href="Css/jquery-ui.css" rel="stylesheet">
+    <link href="Css/swiper.css" rel="stylesheet">
+    <link href="Css/main.css" rel="stylesheet">
+    <link href="Css/widgets.css" rel="stylesheet">
+    <link href="Css/leagues.css" rel="stylesheet">
+    <script src="Js/osd.js"></script>
+    <script src="Js/osd.js"></script>
+    <script type="text/javascript" async="" src="Js/recaptcha__it.js"></script>
+    <script async="" src="Js/analytics.js"></script>
+    <script async="" type="text/javascript" src="Js/gpt.js"></script>
+    <script src="Js/cmp.js" async="" type="text/javascript"></script>
+    <script src="Js/1374640486166510.js" async="">
+    </script><script async="" src="Js/fbevents.js"></script>
+    <script src="Js/vanilla.js"></script>
+    <script async="async" src="Js/gpt.js"></script>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--Per ulteriori informazioni sulla creazione di bundle di script in ScriptManager, vedere http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Script framework--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Script sito--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <!--
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Nome applicazione</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/About">Informazioni</a></li>
+                        <li><a runat="server" href="~/Contact">Contatto</a></li>
+                    </ul>
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/Account/Register">Esegui registrazione</a></li>
+                                <li><a runat="server" href="~/Account/Login">Accedi</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li>
+                                    <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Disconnetti" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                </li>
+                            </ul>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+            </div>
+        </div>
+        -->
+        <div class="showcase dashboard" data-setup="0">
+                 <div class="container" style="pointer-events: all;">
+                    <div class="col-xs-12 col-sm-12 t-ext-left">
+                            <div class="media team-header profile-card-header">
+                                <div class="media-left">
+                                <a href="#" class="team-crest circle-link">
+                                        <img class="media-object crest img-rounded" src="<%=this._AppPath %>Immagini/2.png" onerror="handleImageError(this, Settings.missingCrestSrc)">
+                                    </a>
+                                   <%-- <a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/gestione-squadra/crea-divisa" class="team-shirt circle-link">
+                                        <img class="media-object shirt" src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/s_3883107_02058483.png" onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                    </a>--%>
+                                </div>
+                                <div class="media-body">
+
+                                    <h4 class="league-name">
+                                        FantaMessina
+<span class="league-type label label-classic label-negative">2022</span>
+                                    </h4>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+             </div>
+<%--        <div class="showcase dashboard" data-setup="0">
+                 <div class="container" style="pointer-events: all;">
+                    <div class="col-xs-12 col-sm-12 text-left">
+                            <div class="media team-header profile-card-header">
+                                <div class="media-left">
+                                <a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/gestione-squadra/crea-logo" class="team-crest circle-link">
+                                        <img class="media-object crest img-rounded" src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/3883107_03727828.png" onerror="handleImageError(this, Settings.missingCrestSrc)">
+                                    </a>
+                                   <%-- <a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/gestione-squadra/crea-divisa" class="team-shirt circle-link">
+                                        <img class="media-object shirt" src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/s_3883107_02058483.png" onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="media-heading team-name"><a href="#">FantaMessina</a></h4>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+             </div>--%>
+  <div class="container page sub-showcase" data-setup="0" data-id="2079148">
+     <div class="competition-container" data-len="8">
+       <div class="competition-current" data-id="293637">
+         <div class="competition-current-name">CAMPIONATO</div>
+       </div>
+<%--    <a href="#competitionSettingsModal" data-toggle="modal" class="competition-caret competition-caret-secondary">
+        <i class="icon icon-x2 fg-cogwheel"></i>
+    </a>--%>
+    <a data-toggle="collapse" href="#competitionDropdown" class="competition-caret collapsed">
+        <i class="icon icon-x2 fg-down-chevron"></i>
+    </a>
+         <div id="competitionDropdown" class="collapse competition-dropdown">
+             <ul class="competition-list">
+                 <li>
+                 <a href="#" data-isin="true" data-id="291817">CAMPIONATO</a>
+                 </li>
+                 <li><a href="CoppaMain.aspx" data-isin="true" data-id="293637">COPPE</a></li></ul>
+         </div>
+    <!-- SUB-NAVBAR -->
+    <nav class="navbar raised main-menu" role="navigation">
+        <div class="container">
+            <div id="collapsibleNavbar" class="_collapse _navbar-collapse _left-sidenav no-padding">
+                <!--
+                <div class="navbar-header visible-xs">
+                    <div class="navbar-brand">
+                        MENU GENERALE
+                        <Button class="btn btn-link pull-right" data-toggle="collapse" data-target="#collapsibleNavbar"><i class="icon fg-cancel"></i></Button>
+                    </div>
+                </div>
+                -->
+                        <ul class="nav navbar-nav navbar-menu navbar-autoscroll has-brand">
+                             <li class="dropdown dropdown-area disabled-logged">
+                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                     Home <span class="euro">Euro</span><span class="no-euro">Lega</span> 
+                                 </a>
+
+                             </li>
+                            <li><a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/formazioni">Formazioni</a></li>
+                            <li><a href="#">Calendario</a></li>
+                            <li><a href="FePages/Classifica.aspx">Classifica</a></li>
+                            <li><a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/statistiche">Partecipanti</a></li>
+                            <li><a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/statistiche">Regolamento</a></li>
+                            <li><a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/statistiche">Rose</a></li>
+                            <li><a href="https://leghe.fantagazzetta.com/non-ci-voli-sulu-culu/albo-oro">Albo D'oro</a></li>
+
+                             <li>
+                                 <a href="<%=this._AppPath %>FePages/Login.aspx">Admin</a>
+                             </li> 
+
+                        </ul>                                   
+                </div>
+        </div>
+    </nav>
+
+</div>
+            </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - Applicazione ASP.NET</p>
+            </footer>
+        </div>
+        
+           
+    </form>
+</body>
+</html>

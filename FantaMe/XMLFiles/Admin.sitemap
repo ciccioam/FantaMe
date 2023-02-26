@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Amministrazione"  description="Amministrazione">
+    <siteMapNode url="~/Admin/Partecipanti.aspx" title="Partecipanti"  description="Partecipanti" />
+    <siteMapNode url="~/BePages/Risultati.aspx" title="Calendario"  description="Calendario" />
+    <siteMapNode url="~/Admin/Classifica.aspx" title="Classifica"  description="Classifica" />
+    <siteMapNode title="Coppa"  url="" description="Coppa" >
+      <siteMapNode url="~/BePages/CoppaItalia.aspx" title="Coppa Italia"  description="Coppa Italia" />
+      <siteMapNode url="~/Admin/CoppaEuropa.aspx" title="Coppe Europee"  description="Coppe Europee" />
+    </siteMapNode>
+    <siteMapNode url="" title=""  description="" />
+  </siteMapNode>
+</siteMap>
